@@ -1,3 +1,5 @@
 TestExplorerResults.xml
 .vscode
 coverage.xml
+config.json
+pkg/build/*
